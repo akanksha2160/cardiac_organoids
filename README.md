@@ -23,15 +23,3 @@ Our approach involves:
 ## Team
 
 This project is a collaborative effort between researchers at National Cheng Kung University, bringing together expertise in bioengineering, data science, and deep learning.
-
-## Contributing
-
-We welcome contributions from other researchers and developers interested in improving our model. Please refer to our [CONTRIBUTING.md](link_to_contributing_guidelines) for guidelines on how to get involved.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link_to_license) file for details.
-
----
-
-You can customize the links and other details as needed.
